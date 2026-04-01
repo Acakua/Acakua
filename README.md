@@ -31,18 +31,6 @@ I'm a Computer Engineering student with a passion for embedded systems, wireless
 - Includes use case modeling and system design
 - **Tech Stack:** Software Architecture, Use Case Diagrams
 
-#### 📱 **Android nRF Mesh Library**
-- Comprehensive Android library for Bluetooth Mesh provisioning and communication
-- Supports all Bluetooth Mesh Profile 1.0.1 features
-- **Features:**
-  - Device provisioning with OOB authentication
-  - Network and Application Key management
-  - Secure Network beacons parsing
-  - Group management and virtual addresses
-  - Generic OnOff and vendor model support
-  - Proxy Filter and IV Index updates
-- **Tech Stack:** Java, Android, Bluetooth Mesh, Maven Central
-- **Repo:** [Android-nRF-Mesh-Library](https://github.com/Acakua/Android-nRF-Mesh-Library)
 
 <h3 align="left">🛠 Languages and Tools</h3>
 <p align="left">
