@@ -46,9 +46,6 @@ I'm a Computer Engineering student with a passion for embedded systems, wireless
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
-<a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-</a>
 <a href="https://www.makefile.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/makefile/makefile-original.svg" alt="makefile" width="40" height="40"/>
 </a>
